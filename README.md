@@ -1,3 +1,3 @@
 # AP
 My first repository
-an interesting sports is :football:.
+an interesting sports is :football:, and :running:.
